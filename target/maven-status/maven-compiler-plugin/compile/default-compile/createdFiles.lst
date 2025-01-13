@@ -1,0 +1,12 @@
+com\dojo\authentication\services\ProgramaService.class
+com\dojo\authentication\controllers\HomeController.class
+com\dojo\authentication\repoitories\UserRepo.class
+com\dojo\authentication\repoitories\ProgramaRepo.class
+com\dojo\authentication\models\User.class
+com\dojo\authentication\AuthenticationApplication.class
+com\dojo\authentication\repoitories\PuntuacionRepo.class
+com\dojo\authentication\services\UserService.class
+com\dojo\authentication\models\ProgramaModel.class
+com\dojo\authentication\models\Puntuacion.class
+com\dojo\authentication\models\LoginUser.class
+com\dojo\authentication\ServletInitializer.class
