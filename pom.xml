@@ -104,7 +104,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.AuthenticationApplication</mainClass>
+                            <mainClass>com.example.Authentication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
